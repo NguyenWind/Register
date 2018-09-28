@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">登録</string>
+    <string name="phone">携帯番号</string>
+    <string name="name">名</string>
+    <string name="email">メール</string>
+    <string name="confirm">確認</string>
+    <string name="image">japan</string>
+
+</resources>

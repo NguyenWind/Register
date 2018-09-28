@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="confirm">Confirm</string>
+    <string name="image">english</string>
+
+</resources>

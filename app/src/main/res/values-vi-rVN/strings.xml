@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đăng ký</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="name">Họ tên</string>
+    <string name="email">Email</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="image">vietnam</string>
+</resources>
